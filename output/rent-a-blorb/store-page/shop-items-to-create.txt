@@ -1,3 +1,9 @@
+STATUS (2 Oct, later): ALL 26 ITEMS ARE CREATED, PRICED AND CONNECTED IN STUDIO (build 18k). Andrew publishes to make them live.
+  Developer products: 2x Boost 10m 3716032517 | 30m 3716032638 | 1h 3716032678 | Server Boost 3716032759 | +5 Levels 3716032794
+  +25 Levels 3716032833 | +100 Levels 3716032869 | Skip Stage 3716033094 | Turbo 3716033146 | Skip Rebirth 3716033205
+  Glow 3716033263 | Foam 3716033303 | Splash 3716033351 | Fire 3716033400 | Electric 3716033591 | Rainbow 3716033619 | Galaxy 3716033699
+  Managed pricing is ON for the 17 products (regional prices). OK because nothing bought with Robux can be traded.
+
 STATUS (2 Oct): Claude created all 9 PASSES on Roblox (off sale) and put their IDs in the game (Studio, not published yet).
   2x Speed 2005760333 | VIP 2005154338 | Pop Pup 2006642316 | Bubble Dragon 2007086319 | Wrap Unicorn 2004914348
   Premium Sound Pack 2005028334 | Gold Treadmill 2006246318 | Diamond Treadmill 2004926323 | Admin Treadmill 2005628331
