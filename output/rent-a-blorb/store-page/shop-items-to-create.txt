@@ -1,3 +1,11 @@
+STATUS (2 Oct): Claude created all 9 PASSES on Roblox (off sale) and put their IDs in the game (Studio, not published yet).
+  2x Speed 2005760333 | VIP 2005154338 | Pop Pup 2006642316 | Bubble Dragon 2007086319 | Wrap Unicorn 2004914348
+  Premium Sound Pack 2005028334 | Gold Treadmill 2006246318 | Diamond Treadmill 2004926323 | Admin Treadmill 2005628331
+ANDREW: (1) each pass > Sales > Item for sale ON > price (list below; Sound Pack 49, Diamond Treadmill 349) > Save Changes.
+        (2) create the 17 DEVELOPER PRODUCTS (Roblox asks for a price on creation, so Claude can't make those).
+        (3) screenshot the Developer Products list (IDs) and send it to Claude, then publish.
+Until a pass is for sale, the game says "Coming soon!" instead of a broken buy prompt.
+
 SHOP ITEMS TO CREATE (+1 Speed Bubble Wrap Escape)
 Right now every shop item says "SOON" in the live game, so it earns nothing. Each item needs its ID from Roblox.
 Use the exact names and prices below. When you're done, screenshot the Passes list and the Developer Products list
@@ -30,9 +38,9 @@ DEVELOPER PRODUCTS (can be bought again and again)
 =========== BATCH 2: the rest ===========
 
 PASSES
-14. Premium Sound Pack     85    Unlocks the premium pop sounds.
+14. Premium Sound Pack     49    Unlocks the premium pop sounds.
 15. Gold Treadmill         79    A gold treadmill that pays triple.
-16. Diamond Treadmill      345   A diamond treadmill that pays ten times more.
+16. Diamond Treadmill      349   A diamond treadmill that pays ten times more.
 17. Admin Treadmill        1199  The admin treadmill: the biggest treadmill payout.
 
 DEVELOPER PRODUCTS
